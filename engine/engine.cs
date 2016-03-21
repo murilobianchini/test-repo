@@ -12,7 +12,7 @@ namespace com.assukar.engine
         public Engine(string text)
         {
             this.test = text;
-            text = "";
+            this.test = "the string serves no purpose";
         }
     }
 }
