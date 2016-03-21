@@ -13,6 +13,7 @@ namespace com.test.engine
         {
             this.test = text;
             this.test = "the string serves no purpose";
+            this.test = "test";
         }
     }
 }
