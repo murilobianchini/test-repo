@@ -12,6 +12,7 @@ namespace com.assukar.engine
         public Engine(string text)
         {
             this.test = text;
+            text = "";
         }
     }
 }
