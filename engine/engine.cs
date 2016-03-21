@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace com.assukar.engine
+namespace com.test.engine
 {
     public class Engine
     {
