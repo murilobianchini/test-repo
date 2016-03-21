@@ -13,7 +13,6 @@ namespace com.assukar.engine
         {
             this.test = text;
             text = "";
-            text = "";
         }
     }
 }
