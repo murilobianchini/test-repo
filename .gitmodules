@@ -1,0 +1,3 @@
+[submodule "dev/client/kuninga/Assets/assukar/test-repo"]
+	path = dev/client/kuninga/Assets/assukar/test-repo
+	url = https://github.com/zergsbo/test-repo/

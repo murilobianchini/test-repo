@@ -1,0 +1,132 @@
+ProfileLingua.as
+*configs.xml
+*link.xml
+*size.xml
+*.error
+*.swf
+*.sublime*
+*.prefs
+*.as3proj
+*.docproj
+*.temp
+*~
+*.lxml
+.~lock*
+.svn/
+.settings/
+dist/
+obj/
+bin/
+_includes/
+nbproject/
+*.stamp
+nb-configuration.xml
+nbbuild.xml
+nbactions.xml
+catalog.xml
+manifest.mf
+*.ignore
+*.orig
+
+# Compiled source #
+###################
+*.com
+*.class
+*.exe
+*.o
+*.so
+*.apk
+*.ipa
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Build and Release Folders
+target/
+launch/
+
+# Project property files
+.settings
+.project
+.actionScriptProperties
+.flexConfig.xml
+.flexLibProperties
+.flexProperties
+.rebel
+.classpath
+encodings.txt
+
+# Unity3D and VS extensions #
+#############################
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+
+# Unity3D automatic folders #
+#############################
+
+#test-bingo
+/dev/unity/test-bingo/.vs
+/dev/unity/test-bingo/[Ll]ibrary/
+/dev/unity/test-bingo/[Tt]emp/
+/dev/unity/test-bingo/[Oo]bj/
+/dev/unity/test-bingo/[Bb]uild/
+/dev/unity/test-bingo/[Bb]uilds/
+/dev/unity/test-bingo/Assets/[Aa]ssukar/
+/dev/unity/test-bingo/Assets/AssetStoreTools*
+
+#client project
+/dev/unity/pipavb/.vs
+/dev/unity/pipavb/[Ll]ibrary/
+/dev/unity/pipavb/[Tt]emp/
+/dev/unity/pipavb/[Oo]bj/
+/dev/unity/pipavb/[Bb]uild/
+/dev/unity/pipavb/[Bb]uilds/
+/dev/unity/pipavb/Assets/[Aa]ssukar/
+/dev/unity/pipavb/Assets/AssetStoreTools*
+/dev/unity/pipavb/AssetBundles/
+
+
+/dev/unity/pipavb/Assets/Scripts/com/assukar/pvb/profiles/Profile.cs
+/dev/unity/pipavb/Assets/Scripts/com/assukar/pvb/profiles/Profile.cs.meta
+
+
+
+
+
