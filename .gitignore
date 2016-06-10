@@ -18,6 +18,7 @@ obj/
 bin/
 _includes/
 Library/
+TestRepo/Library/
 nbproject/
 *.stamp
 nb-configuration.xml
