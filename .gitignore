@@ -17,7 +17,7 @@ dist/
 obj/
 bin/
 _includes/
-[Ll]ibrary/
+Library/
 nbproject/
 *.stamp
 nb-configuration.xml
