@@ -1,4 +1,3 @@
-ProfileLingua.as
 *configs.xml
 *link.xml
 *size.xml
@@ -18,6 +17,7 @@ dist/
 obj/
 bin/
 _includes/
+[Ll]ibrary/
 nbproject/
 *.stamp
 nb-configuration.xml
@@ -98,33 +98,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-# Unity3D automatic folders #
-#############################
 
-#test-bingo
-/dev/unity/test-bingo/.vs
-/dev/unity/test-bingo/[Ll]ibrary/
-/dev/unity/test-bingo/[Tt]emp/
-/dev/unity/test-bingo/[Oo]bj/
-/dev/unity/test-bingo/[Bb]uild/
-/dev/unity/test-bingo/[Bb]uilds/
-/dev/unity/test-bingo/Assets/[Aa]ssukar/
-/dev/unity/test-bingo/Assets/AssetStoreTools*
-
-#client project
-/dev/unity/pipavb/.vs
-/dev/unity/pipavb/[Ll]ibrary/
-/dev/unity/pipavb/[Tt]emp/
-/dev/unity/pipavb/[Oo]bj/
-/dev/unity/pipavb/[Bb]uild/
-/dev/unity/pipavb/[Bb]uilds/
-/dev/unity/pipavb/Assets/[Aa]ssukar/
-/dev/unity/pipavb/Assets/AssetStoreTools*
-/dev/unity/pipavb/AssetBundles/
-
-
-/dev/unity/pipavb/Assets/Scripts/com/assukar/pvb/profiles/Profile.cs
-/dev/unity/pipavb/Assets/Scripts/com/assukar/pvb/profiles/Profile.cs.meta
 
 
 
