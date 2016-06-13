@@ -17,7 +17,7 @@ dist/
 obj/
 bin/
 _includes/
-Library/
+[Ll]ibrary/
 TestRepo/Library/
 nbproject/
 *.stamp
